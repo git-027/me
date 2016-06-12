@@ -2597,6 +2597,10 @@ var domains = {
   "zuola.com": 1, 
   "zvereff.com": 1, 
   "zyzc9.com": 1
+  "pornhub.com": 1
+  "youporn.com": 1
+  "pornmd.com": 1
+  "voachinese.com": 1
 };
 
 var direct = 'DIRECT;';
