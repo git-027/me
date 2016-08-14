@@ -2253,7 +2253,7 @@ function FindProxyForURL(url, host) {
         16402 : 1
     };
 
-    var proxy = 'SOCKS 127.0.0.1:8964?proxy=SOCKS 127.0.0.1:8964; DIRECT';
+    var proxy = 'SOCKS 127.0.0.1:1080?proxy=SOCKS 127.0.0.1:1080; DIRECT';
 
     function convertAddress(ipchars) {
         var bytes = ipchars.split('.');
