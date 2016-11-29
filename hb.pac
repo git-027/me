@@ -1,6 +1,6 @@
 // http://pac.itzmx.com
 
-var proxy = "PROXY in7.haose2016.com:25;";
+var proxy = "PROXY ht.haose2016.com:25;";
 
 var domains = {
   "download.kolor.com": 1,
