@@ -1,6 +1,10 @@
 // Flora_Pac by @leaskh
 // www.leaskh.com, i@leaskh.com
 
+var hasOwnProperty = Object.hasOwnProperty;
+var iproxy ='DIRECT';
+var out_gfw_proxy = 'PROXY 127.0.0.1:1080;';
+    
 function FindProxyForURL(url, host) {
 
     var list = [
