@@ -3,6 +3,9 @@
 * Generated from https://github.com/NewFuture/pac
 * see all pac files https://pac.newfuture.xyz
 */
+
+var proxy = "km.haosevm.site:25;";
+
 var WhiteListHost = {
     "bt.byr.cn": true,
     "tv.byr.cn": true,
