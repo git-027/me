@@ -4,7 +4,7 @@
 * see all pac files https://pac.newfuture.xyz
 */
 
-var proxy = "km.haosevm.site:25;";
+var proxy = "66.112.211.69:25;";
 
 var WhiteListHost = {
     "bt.byr.cn": true,
