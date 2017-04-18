@@ -2257,7 +2257,7 @@ function FindProxyForURL(url, host) {
         16402 : 1
     };
 
-    var proxy = 'SOCKS 127.0.0.1:1080?proxy=SOCKS 127.0.0.1:1080; DIRECT';
+    var proxy = 'PROXY us1.ndduser.com:25; DIRECT';
 
     function convertAddress(ipchars) {
         var bytes = ipchars.split('.');
