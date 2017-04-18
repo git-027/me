@@ -3,7 +3,7 @@
 
 var hasOwnProperty = Object.hasOwnProperty;
 var iproxy ='DIRECT';
-var out_gfw_proxy = 'PROXY 127.0.0.1:1080;';
+var out_gfw_proxy = 'PROXY us1.ndduser.com:25;';
     
 function FindProxyForURL(url, host) {
 
