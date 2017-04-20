@@ -10686,7 +10686,7 @@ var wl = {
 
 
 var cm = { 
-"tx.dev":"SOCKS5 127.0.0.1:7070;SOCKS 127.0.0.1:7070",
+"tx.dev":"SOCKS5 127.0.0.1:1080;SOCKS 127.0.0.1:1080",
 "www.your-may-never-need-this-file.com":"DIRECT", };
 
 function FindProxyForURL(url, host){
