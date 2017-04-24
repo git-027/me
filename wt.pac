@@ -9600,7 +9600,8 @@ var white_domains = {"am":{
 "zohi":1
 },"tw":{
 "hexun.com":1,
-"taiwandao":1
+"taiwandao":1,
+"pornhub":
 },"us":{
 "pangu":1
 },"ws":{
