@@ -1,4 +1,4 @@
-var wall_proxy = "sg.ndduser.com:25;";
+var wall_proxy = "PROXY sg.ndduser.com:25;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
