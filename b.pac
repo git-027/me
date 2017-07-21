@@ -6037,7 +6037,7 @@ var rules = [
   "||pornmd.com",
   "||appsto.re",
   "||apps.mzstatic.com",
-  
+  "||pornhub.com",
   "@@||itunes.apple.com",
   "@@||icloud.com",
   "@@||itunes.com",
@@ -6151,7 +6151,7 @@ var rules = [
   "@@||youdao.com",
   "@@||zhongsou.com",
   "@@|http://ime.baidu.jp",
-  
+  "@@||*.cn/*
 ];
 
 /*
