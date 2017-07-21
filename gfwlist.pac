@@ -5,7 +5,6 @@
  * GFWList From: local[/home/feng/g2w.online/gfwlist.txt]
  */
 
-var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080';
 var rules = [
     [
         [], 
