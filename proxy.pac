@@ -2,7 +2,7 @@
 //
 // https://github.com/txthinking/pac
 //
-var proxy = "__PROXY__";
+var proxy = "PROXY 127.0.0.1:1080";
 
 
 var wl = {
